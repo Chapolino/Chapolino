@@ -37,17 +37,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Chapolino">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chapolino&theme=tokyonight" alt="Chapolino's GitHub stats" />
-  </a>
-  <a href="https://github.com/Chapolino">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chapolino&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-
 ### 🐍 GitHub Contributions
 
 <p align="center">
