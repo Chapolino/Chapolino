@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Chapolino">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=530&lines=Building+Agentic+AI+Workflows;Architecting+High-Performance+Dashboards;Creating+FinTech+%26+EdTech+Ecosystems;DevOps+%26+Cloud+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=530&lines=Building+Agentic+AI+Workflows;Architecting+High-Performance+Dashboards;Engineering+Modern+Web+Experiences;DevOps+%26+Cloud+Infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 
 - 🚀 Currently architecting enterprise solutions for **VASP Empreendimentos** and building my ultimate productivity engine, **Life-OS**.
-- 💼 My professional focus spans across **SaaS Dashboards, Congress Platforms, EdTech integrations (LMS), and FinTech payment splits**.
+- 💼 My professional focus spans across **SaaS Dashboards, System Integrations, and High-Performance Web Applications**.
 - 🧠 Deeply invested in leveraging **Artificial Intelligence** to build autonomous pipelines and agentic workflows.
-- 🐳 Strong advocate for modern DevOps (Docker, Coolify) and robust relational databases (PostgreSQL / Supabase).
+- 🐳 Strong advocate for modern DevOps (Docker, Coolify) and robust databases (PostgreSQL / Supabase).
 
 ### 🛠️ Tech Arsenal
 
